@@ -1,0 +1,17 @@
+[
+    {
+        "grade" : "3",
+        "lastName" : "Kylcuckij",
+        "age" : "19"
+    },
+    {
+        "grade" : "2",
+        "lastName" : "Pingvinov",
+        "age" : "18"
+
+    },
+    {   "grade" : "4",
+        "lastName" : "Pasternak",
+        "age" : "18"
+    }
+]
