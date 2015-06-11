@@ -14,7 +14,7 @@ public class Main {
     public static void main(String[] args) {
         FileInputStream fileStream = null;
         try {
-            fileStream = new FileInputStream("src/main/resources/students.json");
+            fileStream = new FileInputStream("jackson-sample/src/main/resources/students.json");
 
             ObjectMapper mapper = new ObjectMapper();
             List<Student> list = mapper.readValue(fileStream,
